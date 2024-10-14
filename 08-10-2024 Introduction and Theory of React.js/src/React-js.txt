@@ -1,0 +1,84 @@
+
+1. Introduction to React.js :
+
+    * Purpose: JavaScript library for building user interfaces (UIs).
+    * Focus: Ideal for single-page applications (SPAs).
+
+
+    Features :
+
+        * Component-Based Architecture: Reusable UI components.
+        * Virtual DOM: Efficient updates and rendering.
+        * Unidirectional Data Flow: Simplifies data management.
+
+
+2. History of React.js :
+
+    A. 2011: Developed by Jordan Walke at Facebook.
+    B. 2012: Open-sourced at JSConf US.
+    C. 2013: Introduced JSX (JavaScript XML).
+    D. 2015: React 0.14 split into separate packages.
+    E. 2016: React 15 improved rendering performance.
+    F. 2017: React 16 featured core architecture rewrite.
+    G. 2018: Introduced React Hooks for state management.
+    H. 2020: React 17 focused on easier upgrades.
+    I. 2021: React 18 added automatic batching and concurrent rendering.
+
+3. What is React.js ?
+
+    Ans. => React is a tool for building UI Components.
+         => React, sometimes referred to as a frontend Javascript framework, is a Javascript library created by Facebook.
+
+
+4. Advance Version of React.js :: ES6 (EchmaECMA Script 6) :
+
+    * It is advance version of React.js .
+
+    # Features of ES6 :
+
+
+
+
+5. Full Forms in React.js : 
+
+    A. npx  : Node Package Exicuter.
+    B. npm  : Node Package Manager.
+    C. swc  : Speedy Web Compiler.
+    D. cd   : Change Directory [ Change Folder ].
+    E. git  : Global Information Tracker.
+    F. jsx  : Javascript Syntax Extention // or // Javascript XML.
+    G. api  : Application Programming Interface.
+    H. rfc  : React Functional Component.
+    I. rfce : React Functional Component Export.
+    J. rcc  : React Class Component
+    
+
+6. Array Objects and Method :
+
+    * Array : Collections of Datatypes.
+
+    * Destructuring : Devide objects to small Variables.
+
+    * Spread : The Spread Operator is ( . . . ) is a Javascript feature that allows an iterable to be expanded into individual elements or properties.
+
+    * Map : In React.js, map is a method to iterate over an array and render each element as a component.
+
+    * Component : Component is a reuseble piese of code.
+
+        Types of Component : A. Functional Component.
+                             B. Class Component.
+
+                            A. Functional Component : => A JavaScript function that returns JSX.
+
+
+
+                            B. Class Component : => A class component in React.js is an ES6 class that extend React. Component, manager, state, and uses lifecycle methods to render JSX.
+
+                                I  . props : Stands for properties.
+                                II . state : Store the value with Update.
+
+7. Life Cycle : 
+
+      I. Component Did Mount.
+     II. Component Did Update.
+    III. Component Will Unmount.
